@@ -2,3 +2,6 @@ Hello everyone to this github training
 
 java
 C
+
+javascript
+python 
